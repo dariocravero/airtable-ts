@@ -1,12 +1,12 @@
 {
-  "name": "airtable-ts",
+  "name": "airtable-ts-native-node-fetch",
   "version": "1.6.1",
-  "description": "A type-safe Airtable SDK",
+  "description": "A type-safe Airtable SDK using node's built-in fetch",
   "license": "MIT",
-  "author": "Adam Jones (domdomegg)",
+  "author": "Adam Jones (domdomegg) - patched by Dario Cravero <dariocravero>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/domdomegg/airtable-ts.git"
+    "url": "https://github.com/dariocravero/airtable-ts.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
